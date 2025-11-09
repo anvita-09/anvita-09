@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, I'm Anvita 👋
 
-<!--
-**anvita-09/anvita-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Undergrad  
+💡 Interested in AI, Cybersecurity & Open Source  
+🧭 Currently learning: Java, Problem Solving, Git & GitHub  
+🌱 Starting to explore how AI models work & how systems stay secure
 
-Here are some ideas to get you started:
+I enjoy taking small steps, learning consistently, and improving my code quality over time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech I've Worked With
+**Languages:** C, Java, Python (basics)  
+**Tools:** Git, GitHub, VS Code  
+**Learning:** Linux, System Basics, Model Fundamentals
+
+---
+
+### 🌱 What I'm Currently Doing
+- Practicing Java and C fundamentals
+- Contributing small improvements in open source
+- Reading/learning about AI & cybersecurity from beginner resources
+
+---
+
+### 📍 Goals
+- Get comfortable with Git-based collaboration
+- Build a few small but complete projects
+- Contribute to beginner-friendly open-source communities
+- Slowly develop understanding in AI + Security
+
+---
+
+### 📊 GitHub Stats
+![Anvita's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
