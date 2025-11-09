@@ -33,4 +33,3 @@ I enjoy taking small steps, learning consistently, and improving my code quality
 
 ### 📊 GitHub Stats
 ![Anvita's GitHub stats](https://github-readme-stats.vercel.app/api?username=anvita-09&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anvita-09&layout=compact)
