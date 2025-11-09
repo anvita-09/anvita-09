@@ -32,4 +32,4 @@ I enjoy taking small steps, learning consistently, and improving my code quality
 ---
 
 ### 📊 GitHub Stats
-![Anvita's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Anvita's GitHub stats](https://github-readme-stats.vercel.app/api?username=anvita-09&show_icons=true)
