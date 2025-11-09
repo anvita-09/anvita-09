@@ -10,7 +10,7 @@ I enjoy taking small steps, learning consistently, and improving my code quality
 ---
 
 ### 💻 Tech I've Worked With
-**Languages:** C, Java, Python (basics)  
+**Languages:** C, Java, HTML, CSS, Python (basics)  
 **Tools:** Git, GitHub, VS Code  
 **Learning:** Linux, System Basics, Model Fundamentals
 
